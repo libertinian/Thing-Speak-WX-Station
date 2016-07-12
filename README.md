@@ -6,3 +6,17 @@ This sketch is the amalgation of the Arduino tutorial for using WiFi 101 ThingSp
 This has been tested on a Arduino MKR1000.
 
 Currently working on implementing a method to gather sea-level pressure data based on location to improve apparent altitude measurements.
+
+Quick and Dirty Wiring
+       Diagram
+-----------------------
+| MKR1000  |   BME280 |
+|   Pin    |    Pin   |
+-----------------------
+|   VCC ------> 3Vo   |
+|   GND ------> GND   |
+|   13  ------> SCK   |
+|   12  ------> SDO   |
+|   11  ------> SDI   |
+|   10  ------> CS    |
+----------------------
