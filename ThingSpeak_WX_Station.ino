@@ -1,32 +1,7 @@
 /*
-  WiFi 101 ThingSpeak Data Uploader
-  Hardware Required:
-  Arduino Zero or Uno Board
-  Arduino Wifi Sheild 101
-  Photocell
-  Temperature Sensor (This example uses a TMP36)
-  10K Ohm Resistor
-
-  created Sept 2015
-  by Helena Bisby <support@arduino.cc>
-  This example code is in the public domain
-  http://arduino.cc/en/Tutorial/WiFi101ThingSpeakDataUploader
-***************************************************************************
-  This is a library for the BME280 humidity, temperature & pressure sensor
-
-  Designed specifically to work with the Adafruit BME280 Breakout
-  ----> http://www.adafruit.com/products/2650
-
-  These sensors use I2C or SPI to communicate, 2 or 4 pins are required
-  to interface.
-
-  Adafruit invests time and resources providing this open source code,
-  please support Adafruit andopen-source hardware by purchasing products
-  from Adafruit!
-
-  Written by Limor Fried & Kevin Townsend for Adafruit Industries.
-  BSD license, all text above must be included in any redistribution
- ***************************************************************************/
+Amalgamation of the Arduino tutorial for WiFi 101 connections to ThingSpeak and the BME280 sensor example sketch.
+Please see README for more details.
+Amalgamated by Libertinian on 7/10/16
 * /
 
 
