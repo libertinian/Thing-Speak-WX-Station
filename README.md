@@ -8,7 +8,7 @@ This has been tested on a Arduino MKR1000.
 ##Quick and Dirty Wiring Diagram 
 
   *MKR1000 \-\-\> BME280*
-- VCC \-\-\-\-\> 3Vo
+- VCC \-\-\-\-\> VIN
 - GND \-\-\-\> GND
 - 13  \-\-\-\-\-\-\> SCK
 - 12 \-\-\-\-\-\-\> SDO
