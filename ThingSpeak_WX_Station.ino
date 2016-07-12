@@ -2,7 +2,7 @@
 Amalgamation of the Arduino tutorial for WiFi 101 connections to ThingSpeak and the BME280 sensor example sketch.
 Please see README for more details.
 Amalgamated by Libertinian on 7/10/16
-* /
+*/
 
 
 #include <SPI.h>
