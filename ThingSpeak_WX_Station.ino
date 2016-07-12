@@ -41,8 +41,6 @@ char ssid[] = "<INSERT YOUR SSID HERE>";     //  your network SSID (name)
 char pass[] = "<INSERT YOUR WPA PASSWORD HERE>";  // your network password
 int status = WL_IDLE_STATUS;     // the Wifi radio's status
 
-//WiFiServer server(80);
-
 // ThingSpeak Settings
 char thingSpeakAddress[] = "api.thingspeak.com";
 String APIKey = "<INSERT YOUR THINGSPEAK WRITE API KEY HERE>";             // enter your channel's Write API Key
