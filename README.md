@@ -8,12 +8,12 @@ This has been tested on a Arduino MKR1000.
 ##Quick and Dirty Wiring Diagram 
 
   *MKR1000 \-\-\> BME280*
-- VCC \-\-\-\-\-\> 3Vo
-- GND \-\-\-\-\-\> GND
-- 13  \-\-\-\-\-\> SCK
-- 12 \-\-\-\-\-\> SDO
-- 11 \-\-\-\-\-\> SDI
-- 10 \-\-\-\-\-\> CS
+- VCC \-\-\-\-\> 3Vo
+- GND \-\-\-\> GND
+- 13  \-\-\-\-\-\-\> SCK
+- 12 \-\-\-\-\-\-\> SDO
+- 11 \-\-\-\-\-\-\> SDI
+- 10 \-\-\-\-\-\-\> CS
 
 ##To Do List
 - [ ] Implement a method to gather sea-level pressure data based on user-supplier location to improve apparent altitude measurements.
